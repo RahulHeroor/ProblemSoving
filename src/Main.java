@@ -8,6 +8,7 @@ public class Main {
         for (int i=0; i<t; i++){
             int n=obj.nextInt();
             System.out.println(-n);
+            System.out.println("the enterd number is");
         }
     }
 
